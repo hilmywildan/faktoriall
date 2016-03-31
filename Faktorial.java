@@ -46,3 +46,4 @@ public class Faktorial {
         }
     }
 }
+//has been updated to belah ketupat
